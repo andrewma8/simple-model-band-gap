@@ -1,4 +1,4 @@
-# Simple Model for Band Gap
+# Simple Model for Predicting Band Gap
 
 This repository contains the code for the following paper: **"Predicting band gap from chemical composition: A simple learned model for a material property with atypical statistics"** (https://arxiv.org/abs/2501.02932).
 
